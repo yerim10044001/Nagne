@@ -9,8 +9,7 @@ import com.example.teamproject.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationItemView
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
-class MainActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemSelectedListener {
-
+class MainActivity2 : AppCompatActivity(), BottomNavigationView.OnNavigationItemSelectedListener  {
     private val bn: BottomNavigationItemView by lazy {
         findViewById(R.id.bn)
     }
@@ -46,6 +45,7 @@ class MainActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemS
         }
         return false
     }
+
 
     /*
     var fname: String? = null
