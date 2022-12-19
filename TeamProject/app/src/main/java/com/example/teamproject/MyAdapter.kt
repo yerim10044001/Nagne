@@ -21,5 +21,6 @@ class MyAdapter (val datas: MutableList<Bitmap>): RecyclerView.Adapter<RecyclerV
         // 뷰에 데이터 출력
         //binding.itemData.src = datas[position]
         binding.itemData.setImageBitmap(datas[position])
+        binding.itemData.clipToOutline = true
     }
 }
