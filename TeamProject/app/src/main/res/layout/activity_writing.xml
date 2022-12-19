@@ -68,35 +68,10 @@
 
         </LinearLayout>
 
-        <HorizontalScrollView
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
             android:layout_width="match_parent"
-            android:layout_height="200dp">
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="horizontal"
-                android:id="@+id/pictureLayout">
-                <!--사진 들어갈 자리-->
-                <ImageView
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/travel_picture"
-                    android:scaleType="fitCenter"
-                    android:layout_margin="10dp"/>
-                <ImageView
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/travel_picture"
-                    android:scaleType="fitCenter"
-                    android:layout_margin="10dp"/>
-                <ImageView
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/travel_picture"
-                    android:scaleType="fitCenter"
-                    android:layout_margin="10dp"/>
-            </LinearLayout>
-        </HorizontalScrollView>
+            android:layout_height="200dp" />
 
         <TextView
             android:layout_width="wrap_content"
