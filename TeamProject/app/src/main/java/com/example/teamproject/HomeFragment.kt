@@ -6,6 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import com.example.teamproject.databinding.FragmentHomeBinding
 
 // TODO: Rename parameter arguments, choose names that match
@@ -19,9 +20,6 @@ private const val ARG_PARAM2 = "param2"
  * create an instance of this fragment.
  */
 class HomeFragment : Fragment() {
-    // TODO: Rename and change types of parameters
-    private var param1: String? = null
-    private var param2: String? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -32,16 +30,15 @@ class HomeFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        val binding = FragmentHomeBinding.inflate(layoutInflater)
         val rootView = inflater.inflate(R.layout.fragment_home, container, false)
 
         val mActivity = activity as MainActivity2
-        val recommendBtn = binding.travelRecommend
+        val recommendBtn: Button = rootView.findViewById(R.id.travelRecommend)
         recommendBtn.setOnClickListener {
-            Log.d("jian", "**")
+            mActivity.changeFragment(1)
         }
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_home, container, false)
+        return rootView
     }
 
 
