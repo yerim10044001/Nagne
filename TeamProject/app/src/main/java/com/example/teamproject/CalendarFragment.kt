@@ -1,11 +1,13 @@
 package com.example.teamproject
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.CalendarView.OnDateChangeListener
 import androidx.fragment.app.Fragment
+import com.example.teamproject.databinding.ActivityMainBinding
 import com.example.teamproject.databinding.FragmentCalendarBinding
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
@@ -27,7 +29,7 @@ class CalendarFragment : Fragment() {
     private var param1: String? = null
     private var param2: String? = null
 
-
+    lateinit var binding: FragmentCalendarBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -35,6 +37,7 @@ class CalendarFragment : Fragment() {
             param1 = it.getString(ARG_PARAM1)
             param2 = it.getString(ARG_PARAM2)
         }
+
     }
 
     override fun onCreateView(
@@ -42,7 +45,7 @@ class CalendarFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
-        val binding = FragmentCalendarBinding.inflate(inflater, container, false)
+        binding = FragmentCalendarBinding.inflate(inflater, container, false)
 
         // 오늘 날짜로 default 설정
         val currentDate: LocalDate = LocalDate.now()
@@ -56,6 +59,13 @@ class CalendarFragment : Fragment() {
             binding.diaryTextView.setText(String.format("%d년 %d월 %d일", year, month + 1, dayOfMonth))
 
         })
+
+
+        //버튼 클릭 시 일지 쓰는 화면으로 넘어가기
+        binding.editBtn.setOnClickListener{
+            val intent: Intent = Intent(activity, WritingActivity::class.java)
+            startActivity(intent)
+        }
 
         // Inflate the layout for this fragment
         return binding.root

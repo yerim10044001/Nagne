@@ -2,4 +2,8 @@
     <string name="app_name">TeamProject</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="category">
+        <item>식당</item>
+        <item>장소</item>
+    </string-array>
 </resources>
