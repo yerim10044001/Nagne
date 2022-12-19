@@ -9,9 +9,11 @@
     <!--사진 들어갈 자리-->
     <ImageView
         android:id="@+id/itemData"
-        android:layout_width="200dp"
+        android:background="@drawable/image_shape"
+        android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:layout_margin="10dp"/>
+        android:layout_margin="10dp"
+        />
 
 </LinearLayout>

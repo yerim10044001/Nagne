@@ -30,6 +30,7 @@ class CalendarFragment : Fragment() {
     private var param2: String? = null
 
     lateinit var binding: FragmentCalendarBinding
+    lateinit var selectedDate: String
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -56,7 +57,8 @@ class CalendarFragment : Fragment() {
         // calendar 날짜 선택 시 아래 text 날짜 변경
         binding.calendarView.setOnDateChangeListener(OnDateChangeListener { view, year, month, dayOfMonth ->
             binding.diaryTextView.setVisibility(View.VISIBLE)
-            binding.diaryTextView.setText(String.format("%d년 %d월 %d일", year, month + 1, dayOfMonth))
+            selectedDate = String.format("%d년 %d월 %d일", year, month + 1, dayOfMonth)
+            binding.diaryTextView.setText(selectedDate)
 
         })
 
@@ -64,6 +66,7 @@ class CalendarFragment : Fragment() {
         //버튼 클릭 시 일지 쓰는 화면으로 넘어가기
         binding.editBtn.setOnClickListener{
             val intent: Intent = Intent(activity, WritingActivity::class.java)
+            intent.putExtra("date",selectedDate)
             startActivity(intent)
         }
 

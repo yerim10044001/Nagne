@@ -42,6 +42,9 @@ class WritingActivity : AppCompatActivity() {
             spinner.adapter = adapter
         }
 
+        // 날짜 정보 받아오기
+        val selectedDate = intent.getStringExtra("date")
+        binding.currdate.setText(selectedDate)
 
         binding.recyclerView.layoutManager = LinearLayoutManager(this)
         binding.recyclerView.adapter = MyAdapter(datas)
