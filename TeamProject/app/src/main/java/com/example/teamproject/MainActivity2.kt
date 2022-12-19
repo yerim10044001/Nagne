@@ -4,15 +4,17 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.FragmentActivity
 import com.example.teamproject.databinding.ActivityMain2Binding
 import com.example.teamproject.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationItemView
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
-class MainActivity2 : AppCompatActivity(), BottomNavigationView.OnNavigationItemSelectedListener  {
+class MainActivity2 : FragmentActivity(), BottomNavigationView.OnNavigationItemSelectedListener  {
     private val bn: BottomNavigationItemView by lazy {
         findViewById(R.id.bn)
     }
+
     lateinit var binding : ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -46,6 +48,16 @@ class MainActivity2 : AppCompatActivity(), BottomNavigationView.OnNavigationItem
         return false
     }
 
+//    fun changeFragment(index: Int) {
+//        when(index) {
+//            1 -> {
+//                supportFragmentManager
+//                    .beginTransaction()
+//                    .replace(R.id.fl, CalendarFragment())
+//                    .commit()
+//            }
+//        }
+//    }
 
     /*
     var fname: String? = null
