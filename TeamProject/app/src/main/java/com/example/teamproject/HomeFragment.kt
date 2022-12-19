@@ -33,7 +33,6 @@ class HomeFragment : Fragment() {
         val rootView = inflater.inflate(R.layout.fragment_home, container, false)
 
         val mActivity = activity as MainActivity2
-        val recommendBtn: Button = rootView.findViewById(R.id.travelRecommend)
         val travelDiaryBtn: Button = rootView.findViewById(R.id.travelDiary)
         travelDiaryBtn.setOnClickListener {
             mActivity.changeFragment(1)

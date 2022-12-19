@@ -1,10 +1,16 @@
 package com.example.teamproject
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.CalendarView.OnDateChangeListener
+import androidx.fragment.app.Fragment
+import com.example.teamproject.databinding.FragmentCalendarBinding
+import java.time.LocalDate
+import java.time.format.DateTimeFormatter
+import java.util.*
+
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -21,6 +27,8 @@ class CalendarFragment : Fragment() {
     private var param1: String? = null
     private var param2: String? = null
 
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         arguments?.let {
@@ -33,8 +41,24 @@ class CalendarFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+
+        val binding = FragmentCalendarBinding.inflate(inflater, container, false)
+
+        // 오늘 날짜로 default 설정
+        val currentDate: LocalDate = LocalDate.now()
+        val formatter = DateTimeFormatter.ofPattern("yyyy년 MM월 dd일")
+        val formatted = currentDate.format(formatter)
+
+        binding.diaryTextView.setText(formatted)
+        // calendar 날짜 선택 시 아래 text 날짜 변경
+        binding.calendarView.setOnDateChangeListener(OnDateChangeListener { view, year, month, dayOfMonth ->
+            binding.diaryTextView.setVisibility(View.VISIBLE)
+            binding.diaryTextView.setText(String.format("%d년 %d월 %d일", year, month + 1, dayOfMonth))
+
+        })
+
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_calendar, container, false)
+        return binding.root
     }
 
     companion object {
