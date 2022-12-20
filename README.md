@@ -32,7 +32,7 @@
     
 ### 03. 나그네의 관광 추천
 초기 화면에서 '나그네의 관광 추천' 버튼을 클릭하면 지도가 뜨는데, 이 지도에서 원하는 관광지의 정확한 장소나, 근처 음식점 위치 등을 파악할 수 있다.
-<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/> </p>
+<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208661110-2fe12c31-8ac7-4a70-aa68-9d17bcec9627.jpg"/> </p>
 
 ### 04. 나그네의 여행 일지
 초기 화면에서 '나그네의 여행 일지' 버튼을 클릭하면 왼쪽과 같은 화면이 뜨는데, 이 화면 속 캘린더에서 등록을 원하는 날짜를 선택하고, 선택된 날짜에 대한 일정을 등록할 수 있다.
