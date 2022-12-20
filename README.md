@@ -12,7 +12,7 @@
    **[어플리케이션 제작 - Nagne]**
   
 </div>
-<img width="30%" src="https://user-images.githubusercontent.com/110325367/208612515-e370c74c-dbd0-4740-b23f-86bbcc5836ae.png"/> <img width="30%" src="https://user-images.githubusercontent.com/110325367/208613610-c9aa9c2e-f4fd-46f8-ad23-6c2ab69510cf.png"/>
+[<img width="30%" src="https://user-images.githubusercontent.com/110325367/208612515-e370c74c-dbd0-4740-b23f-86bbcc5836ae.png"/>] [<img width="30%" src="https://user-images.githubusercontent.com/110325367/208613610-c9aa9c2e-f4fd-46f8-ad23-6c2ab69510cf.png"/>]
 
 
 <br><br>
