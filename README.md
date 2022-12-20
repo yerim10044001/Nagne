@@ -145,6 +145,6 @@ SR과 디노이징을 통한 최적화 후 객체 인식 테스트를 재진행�
 
 # conference
 
-  > 회의록 : [회의록 DRIVE](https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing)
+  > 회의록 : [회의록 Link](https://github.com/yerim10044001/Nagne/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D)
 
 <br>
