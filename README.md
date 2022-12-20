@@ -32,7 +32,7 @@
 <p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208621020-b4791459-766e-4380-813f-13259cdc851d.png"/>  <img width="200" src="https://user-images.githubusercontent.com/110325367/208621919-15207638-c122-4351-81cf-41f48850fefc.png"/> </p>
     
 # Tool
-[<img src="https://user-images.githubusercontent.com/110325367/208617932-b5d828bc-789c-4482-a295-7d7d26e0b7f7.jpg"/>](https://developer.android.com/?hl=ko)
+[<img width="200" src="https://user-images.githubusercontent.com/110325367/208617932-b5d828bc-789c-4482-a295-7d7d26e0b7f7.jpg"/>](https://developer.android.com/?hl=ko)
 [<img src="https://user-images.githubusercontent.com/110325367/208623408-9fa94fc7-281f-4108-907d-4d7c5e1f26a6.png"/>](https://www.figma.com/file/OJPYqHYUDjF3FBhHmAPUv0/Untitled?node-id=0%3A1&t=oKphEWp3S7N1kIxa-0)
 
 
