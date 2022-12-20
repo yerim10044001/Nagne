@@ -6,7 +6,6 @@
 * 2020114702 이예림
 * 2020111674 이지안
 
-# A Case Study of Object detection via Generated image Using deep learning model based on image generation
 <br>
 <div align="center">
     
