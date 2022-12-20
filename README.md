@@ -46,7 +46,7 @@
     
 ### 06. 도움말
 환경설정 로고를 클릭하게 되면 도움말 페이지가 뜨는데, 어플리케이션 제작자(팀원)의 정보를 제공하고, 라이트모드/다크모드 및 한국어/영어 기능을 제공한다.
-<p align="center"><img width="200" src="[https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png](https://user-images.githubusercontent.com/110325367/208663689-ebffcbf8-a13b-4708-95c8-2950298661ad.jpg)"/> </p>
+<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208663689-ebffcbf8-a13b-4708-95c8-2950298661ad.jpg"/> </p>
 
 ## Tool
    
