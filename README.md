@@ -19,13 +19,13 @@
 
 <br>
 
-<img width="220" src="https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png"/>
+<p align="center"><img width="220" src="https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png"/> </p>
 
     
 ### 02. 초기 화면
 제일 첫 화면에는 '나그네의 관광추천', '나그네의 여행일지' 버튼이 있고, 이러한 버튼 아래에는 랜덤으로 관광지를 추천해주고, 그 관광지와 관련된 정보를 제공해주는 '오늘의 관광지 추천' 버튼이 구현되어있다.
 
-<img width="220" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/>
+<p align="center"><img width="220" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/> </p>
 <br> 
     
     
