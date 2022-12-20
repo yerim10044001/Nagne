@@ -51,7 +51,7 @@
    
           [<img width="150" src="https://user-images.githubusercontent.com/110325367/208623408-9fa94fc7-281f-4108-907d-4d7c5e1f26a6.png"/>](https://www.figma.com/file/OJPYqHYUDjF3FBhHmAPUv0/Untitled?node-id=0%3A1&t=oKphEWp3S7N1kIxa-0)         [<img src="https://user-images.githubusercontent.com/110325367/208617932-b5d828bc-789c-4482-a295-7d7d26e0b7f7.jpg"/>](https://developer.android.com/?hl=ko)  
           
-Userframe 및 Wireframe을 구축하기 위한 tool로 Figma를 사용하였고, 프로젝트의 전반적인 구현은 Andriod Studio를 사용하였다.
+Wireframe 및 Userflow을 구축하기 위한 tool로 Figma를 사용하였고, 프로젝트의 전반적인 구현은 Andriod Studio를 사용하였다.
 
 # Demo Video
   > [시연 영상 Link](https://github.com/yerim10044001/Nagne/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D)
