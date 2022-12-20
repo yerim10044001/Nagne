@@ -40,8 +40,8 @@
 <p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208621020-b4791459-766e-4380-813f-13259cdc851d.png"/>  <img width="200" src="https://user-images.githubusercontent.com/110325367/208621919-15207638-c122-4351-81cf-41f48850fefc.png"/> </p>
     
 ### 05. 관광지 추천
-초기 화면에서 오늘의 관광지 추천 버튼을 클릭하면 랜덤으로 관광지를 추천하고, 그 추천한 관광지에 대한 정보를 제공한다.
-<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/> </p>
+초기 화면에서 오늘의 관광지 추천 화면에서는 추천하는 관광지를 표시하고, 그 추천 관광지에 대한 정보를 제공한다.
+<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208661348-1378cedf-01dc-4ace-813b-48a771527298.jpg"/>  <img width="200" src="https://user-images.githubusercontent.com/110325367/208661563-c4bd0157-4db7-433d-9a01-c2a4651403de.jpg"/> </p>
 
     
 ### 06. 도움말
