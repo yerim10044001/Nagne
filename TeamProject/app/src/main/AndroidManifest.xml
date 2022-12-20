@@ -2,24 +2,29 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.teamproject">
+
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
-        android:requestLegacyExternalStorage="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
         android:supportsRtl="true"
         android:theme="@style/Theme.TeamProject"
         tools:targetApi="31">
+        <activity
+            android:name=".EditActivity"
+            android:exported="false" />
+
         <meta-data
             android:name="com.naver.maps.map.CLIENT_ID"
             android:value="if8mmjwuuq" />
+
         <activity
             android:name=".WritingActivity"
-            android:exported="false" />
-        <!-- Splash Activity -->
+            android:exported="false" /> <!-- Splash Activity -->
         <activity
             android:name=".SplashActivity"
             android:exported="true"
