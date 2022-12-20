@@ -8,6 +8,12 @@
 ## Schedule
 <p align="center"> <img width="650" src="https://user-images.githubusercontent.com/110325367/208619255-48bb1e95-abb1-444d-a9b4-5ea244287a80.png"/> </p>
 
+## WireFrame
+<p align="center"><img width="1000" src="https://user-images.githubusercontent.com/110325367/208625469-3bf5c687-77af-4a46-ba31-5d6ae3bb8aba.png"/> </p>
+
+## UserFrame
+<p align="center"><img width="800" src="https://user-images.githubusercontent.com/110325367/208628062-629df408-07a8-439d-957b-7e8dc49ee25f.png"/> </p>
+
 
 ###   
 ## Application "Nagne"
@@ -34,18 +40,8 @@
 # Tool
 Userframe 및 Wireframe을 구축하기 위한 tool로 Figma를 사용하였고, 프로젝트의 전반적인 구현은 Andriod Studio를 사용하였다.
    
-
           [<img width="150" src="https://user-images.githubusercontent.com/110325367/208623408-9fa94fc7-281f-4108-907d-4d7c5e1f26a6.png"/>](https://www.figma.com/file/OJPYqHYUDjF3FBhHmAPUv0/Untitled?node-id=0%3A1&t=oKphEWp3S7N1kIxa-0)         [<img src="https://user-images.githubusercontent.com/110325367/208617932-b5d828bc-789c-4482-a295-7d7d26e0b7f7.jpg"/>](https://developer.android.com/?hl=ko)         
 ###   
-
-## WireFrame
-<p align="center"><img width="1000" src="https://user-images.githubusercontent.com/110325367/208625469-3bf5c687-77af-4a46-ba31-5d6ae3bb8aba.png"/> </p>
-
-
-## UserFrame
-<p align="center"><img width="800" src="https://user-images.githubusercontent.com/110325367/208628062-629df408-07a8-439d-957b-7e8dc49ee25f.png"/> </p>
-
-
 
 # Demo Video
   > 시연 영상 : [시연 영상 Link](https://github.com/yerim10044001/Nagne/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D)
@@ -55,4 +51,3 @@ Userframe 및 Wireframe을 구축하기 위한 tool로 Figma를 사용하였고,
   > 회의록 : [회의록 Link](https://github.com/yerim10044001/Nagne/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D)
 ###   
 
-<br>
