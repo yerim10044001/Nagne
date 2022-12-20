@@ -8,11 +8,10 @@
 
 
 ### 어플리케이션 제작 - "Nagne"
-* 여행~
-* 
+#### 여행 일지를 이미지나 텍스트로 기록하고 여행 장소를 추천 받을 수 있는 어플리케이션을 제작하고자 함
+
 <br>
 <div align="center">
-
 
 <div>
 <img width="220" src="https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png"/>           <img width="220" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/>
