@@ -28,7 +28,7 @@
 
 ### 04. 나그네의 여행 일지
 초기 화면에서 '나그네의 여행 일지' 버튼을 클릭하면 왼쪽과 같은 화면이 뜨는데, 이 화면 속 캘린더에서 등록을 원하는 날짜를 선택하고, 선택된 날짜에 대한 일정을 등록할 수 있다.
-<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208621020-b4791459-766e-4380-813f-13259cdc851d.png"/> </p>
+<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208621020-b4791459-766e-4380-813f-13259cdc851d.png"/> <img width="200" src="https://user-images.githubusercontent.com/110325367/208621919-15207638-c122-4351-81cf-41f48850fefc.png"/> </p>
     
 # Tool
 [<img src="https://user-images.githubusercontent.com/110325367/208617932-b5d828bc-789c-4482-a295-7d7d26e0b7f7.jpg"/>](https://developer.android.com/?hl=ko)
