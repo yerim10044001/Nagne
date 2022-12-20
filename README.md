@@ -27,10 +27,6 @@
     
 # Tool
 [<img src="https://user-images.githubusercontent.com/110325367/208617932-b5d828bc-789c-4482-a295-7d7d26e0b7f7.jpg"/>](https://developer.android.com/?hl=ko)
-  [<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=Python&logoColor=white"/>](https://openai.com/dall-e-2/)
-  [<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Python&logoColor=white"/></a>](https://colab.research.google.com/drive/1gjUVQBpd7Ib5NlojBwcZRh3B2MkRicc7#scrollTo=q2T8J68g11da)
-  [<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Python&logoColor=white"/></a>](https://www.figma.com/file/XDfuWXEdcqPD4pNmuAuZx0/HI%3AM?node-id=25%3A548&t=SAizXbg7iZ7TVM0U-0)
-  [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 
 <br>
 
