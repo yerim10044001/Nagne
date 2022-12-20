@@ -12,7 +12,6 @@
 
 #### 01. Splash 화면
 <br>
-<div align="center">
 
 <img width="220" src="https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png"/>
 
