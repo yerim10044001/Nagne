@@ -54,7 +54,7 @@
 Wireframe 및 Userflow을 구축하기 위한 tool로 Figma를 사용하였고, 프로젝트의 전반적인 구현은 Andriod Studio를 사용하였다.
 
 # Demo Video
-  > [시연 영상 Link](https://github.com/yerim10044001/Nagne/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D)
+  > [시연 영상 Link](https://youtu.be/uexla-fpKiI)
     
 
 # conference
