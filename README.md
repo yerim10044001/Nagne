@@ -37,7 +37,7 @@
 ### 04. 나그네의 여행 일지
 초기 화면에서 '나그네의 여행 일지' 버튼을 클릭하면 왼쪽과 같은 화면이 뜨는데, 이 화면 속 캘린더에서 등록을 원하는 날짜를 선택하고, 선택된 날짜에 대한 일정을 등록할 수 있다.
 왼쪽 화면의 연필 버튼(일정 등록 버튼)을 클릭하면, 오른쪽과 같은 화면이 뜨는데, 식당/장소 카테고리를 선택한 후, 선택한 카테고리의 Picture 및 Text에 내용을 추가한다. 저장 버튼을 누르면 선택한 날짜에 방금 삽입한 picture 및 text가 저장된다.
-<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208662422-a2c235ff-b49c-4158-81e2-19e293853875.jpg"/>  <img width="200" src="https://user-images.githubusercontent.com/110325367/208662756-12b366dc-0b25-4268-a425-3257950fb5a5.jpg"/> </p>
+<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208662422-a2c235ff-b49c-4158-81e2-19e293853875.jpg"/>  <img width="200" src="https://user-images.githubusercontent.com/110325367/208663067-7d33c312-59ef-4b8e-9407-1943b4ebb7da.jpg"/> </p>
     
 ### 05. 관광지 추천
 초기 화면에서 오늘의 관광지 추천 화면에서는 추천하는 관광지를 표시하고, 그 추천 관광지에 대한 정보를 제공한다.
