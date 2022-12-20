@@ -1,12 +1,16 @@
 ## 경북대학교 모바일 앱 프로그래밍1 Team project
-## 팀원
+## member
 * 2018112111 서정엽
 * 2020112099 송민지
 * 2020114702 이예림
 * 2020111674 이지안
 
+## schedule
+<img width="300" src="https://user-images.githubusercontent.com/110325367/208619255-48bb1e95-abb1-444d-a9b4-5ea244287a80.png"/>
+
+
 ###   
-## 어플리케이션 "Nagne"
+## application "Nagne"
 #### 여행 일지를 이미지나 텍스트로 기록하고 여행 장소를 추천 받을 수 있는 어플리케이션을 제작하고자 한다.
 
 ###   
