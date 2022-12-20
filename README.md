@@ -13,7 +13,7 @@
   
 </div>
 ![start_splash](https://user-images.githubusercontent.com/110325367/208612515-e370c74c-dbd0-4740-b23f-86bbcc5836ae.png)
-<img width="80%" src="https://user-images.githubusercontent.com/110325367/208612515-e370c74c-dbd0-4740-b23f-86bbcc5836ae.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/110325367/208612515-e370c74c-dbd0-4740-b23f-86bbcc5836ae.png"/>
 
 <br><br>
 <div align="center">
