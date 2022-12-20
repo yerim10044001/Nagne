@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import android.widget.CalendarView.OnDateChangeListener
 import androidx.fragment.app.Fragment
 import com.example.teamproject.databinding.ActivityMainBinding
@@ -69,6 +70,11 @@ class CalendarFragment : Fragment() {
             val intent: Intent = Intent(activity, WritingActivity::class.java)
             intent.putExtra("date",selectedDate)
             startActivity(intent)
+        }
+
+        binding.picture1.setOnClickListener {
+            val mActivity = activity as MainActivity2
+            mActivity.changeFragment(2)
         }
 
         // Inflate the layout for this fragment

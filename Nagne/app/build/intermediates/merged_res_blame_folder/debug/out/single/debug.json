@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable-v24_travel_picture1.jpg.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable-v24/travel_picture1.jpg"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/layout_main_view.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/layout/main_view.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable-v24_save.png.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable-v24/save.png"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable-v24_trash.png.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable-v24/trash.png"
+    },
+    {
+        "merged": "com.example.nagne.app-merged_res-29:/drawable_btn_recommend.xml.flat",
+        "source": "com.example.nagne.app-main-31:/drawable/btn_recommend.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable_menu_button.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable/menu_button.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable_btn_airplane.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable/btn_airplane.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable_btn_note.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable/btn_note.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.nagne.app-merged_res-29:/drawable_recommend_round_image1.xml.flat",
+        "source": "com.example.nagne.app-main-31:/drawable/recommend_round_image1.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable-v24_note.png.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable-v24/note.png"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable-v24_add.png.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable-v24/add.png"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable-v24_add_picture.png.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable-v24/add_picture.png"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.nagne.app-merged_res-29:/drawable_btn_recommend_image1.xml.flat",
+        "source": "com.example.nagne.app-main-31:/drawable/btn_recommend_image1.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable_edittext_shadow.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable/edittext_shadow.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable-v24_travel_picture.jpg.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable-v24/travel_picture.jpg"
+    },
+    {
+        "merged": "com.example.nagne.app-merged_res-29:/layout_main_view.xml.flat",
+        "source": "com.example.nagne.app-main-31:/layout/main_view.xml"
+    },
+    {
+        "merged": "com.example.nagne.app-merged_res-29:/drawable-v24_recommend_image1.png.flat",
+        "source": "com.example.nagne.app-main-31:/drawable-v24/recommend_image1.png"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable_button_round.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable/button_round.xml"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/drawable-v24_airplane.png.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/drawable-v24/airplane.png"
+    },
+    {
+        "merged": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/Users/ijian/.gradle/daemon/7.4/com.example.nagne.app-main-31:/layout/activity_main.xml"
+    }
+]

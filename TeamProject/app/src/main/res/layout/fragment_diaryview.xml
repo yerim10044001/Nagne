@@ -8,31 +8,34 @@
 
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="1080px"
-        android:src="@drawable/white_img"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="900px" />
-
-    <ImageView
         android:id="@+id/diaryMainimg"
-        android:layout_width="match_parent"
-        android:layout_height="1080px"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="82dp"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/jeju" />
-
-
+        app:layout_constraintBottom_toTopOf="@+id/diaryText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        android:src="@drawable/jeju" />
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="1080px"
-        android:layout_height="180px"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="331dp"
         android:background="#99C4D0"
         android:gravity="center"
         android:text="제주도"
         android:textAlignment="center"
         android:textSize="20dp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
         android:id="@+id/image_button"
@@ -46,6 +49,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
+        android:id="@+id/imageButton"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_gravity="right"
@@ -58,24 +62,35 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:layout_width="360px"
-        android:layout_height="132px"
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="281dp"
         android:background="#ffffffff"
-        tools:layout_editor_absoluteX="-24px"
-        tools:layout_editor_absoluteY="1050px"
         android:text="About"
         android:textAlignment="center"
         android:textSize="20dp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
     <TextView
         android:id="@+id/diaryText"
-        android:layout_width="999px"
-        android:layout_height="636px"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginEnd="14dp"
+        android:layout_marginBottom="55dp"
         android:background="#f0f0f0"
-        tools:layout_editor_absoluteX="42px"
-        tools:layout_editor_absoluteY="1140px"
+        android:padding="20px"
         android:text="너무 재밌었다. 공기좋고 물 좋다. 다음에 또 가고싶다. 제주도에 가면 검멀레짬뽕을 꼭 먹어야 한다."
         android:textSize="40px"
-        android:padding="20px" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
