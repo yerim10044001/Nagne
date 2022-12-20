@@ -20,29 +20,29 @@
 여행 일지를 이미지나 텍스트로 기록하고 여행 장소를 추천 받을 수 있는 어플리케이션을 제작하고자 한다.
 
 
-#### 01. Splash 화면
+### 01. Splash 화면
 제일 첫 시작 화면이 뜨기 전에, splash를 이용하여 Nagne 로고를 보여주면서 loading을 시작한다. 
 <p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png"/> </p>
 
-#### 02. 초기 화면
+### 02. 초기 화면
 제일 첫 화면에는 '나그네의 관광 추천', '나그네의 여행 일지' 버튼이 있고, 이러한 버튼 아래에는 랜덤으로 관광지를 추천해주고, 그 관광지와 관련된 정보를 제공해주는 '오늘의 관광지 추천' 버튼이 구현되어있다.
 <p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/> </p>
     
-#### 03. 나그네의 관광 추천
+### 03. 나그네의 관광 추천
 초기 화면에서 '나그네의 관광 추천' 버튼을 클릭하면 지도가 뜨는데, 이 지도에서 원하는 관광지의 정확한 장소나, 근처 음식점 위치 등을 파악할 수 있다.
 <p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/> </p>
 
-#### 04. 나그네의 여행 일지
+### 04. 나그네의 여행 일지
 초기 화면에서 '나그네의 여행 일지' 버튼을 클릭하면 왼쪽과 같은 화면이 뜨는데, 이 화면 속 캘린더에서 등록을 원하는 날짜를 선택하고, 선택된 날짜에 대한 일정을 등록할 수 있다.
 왼쪽 화면의 연필 버튼(일정 등록 버튼)을 클릭하면, 오른쪽과 같은 화면이 뜨는데, 식당/장소 카테고리를 선택한 후, 선택한 카테고리의 Picture 및 Text에 내용을 추가한다. 저장 버튼을 누르면 선택한 날짜에 방금 삽입한 picture 및 text가 저장된다.
 <p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208621020-b4791459-766e-4380-813f-13259cdc851d.png"/>  <img width="200" src="https://user-images.githubusercontent.com/110325367/208621919-15207638-c122-4351-81cf-41f48850fefc.png"/> </p>
     
-#### 05. 관광지 추천
+### 05. 관광지 추천
 초기 화면에서 오늘의 관광지 추천 버튼을 클릭하면 랜덤으로 관광지를 추천하고, 그 추천한 관광지에 대한 정보를 제공한다.
 <p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/> </p>
 
     
-#### 06. 도움말
+### 06. 도움말
 도움말 페이지를 구현하였다. 어플리케이션 제작자(팀원)의 정보를 제공한다.
     
 ## Tool
