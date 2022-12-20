@@ -41,7 +41,7 @@
     
 ### 05. 관광지 추천
 초기 화면에서 오늘의 관광지 추천 화면에서는 추천하는 관광지를 표시하고, 그 추천 관광지에 대한 정보를 제공한다.
-<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208661348-1378cedf-01dc-4ace-813b-48a771527298.jpg"/>  <img width="200" src="https://user-images.githubusercontent.com/110325367/208661563-c4bd0157-4db7-433d-9a01-c2a4651403de.jpg"/> </p>
+<p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208661948-c737e481-2049-40a9-bbf6-08a637d9e83a.jpg"/>  <img width="200" src="https://user-images.githubusercontent.com/110325367/208661563-c4bd0157-4db7-433d-9a01-c2a4651403de.jpg"/> </p>
 
     
 ### 06. 도움말
