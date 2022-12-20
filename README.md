@@ -14,11 +14,8 @@
 <br>
 <div align="center">
 
-<div>
 <img width="220" src="https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png"/>
-</div>
 
-<br><br>
     
 제일 첫 시작 화면이 뜨기 전에, splash를 이용하여 Nagne 로고를 보여주면서 loading을 시작한다. 
 
