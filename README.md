@@ -12,7 +12,8 @@
 와이어프레임은 제품을 구성하는 서로 다른 레이아웃을 정적인 상태로 재연한 것으로, 간단한 모양을 사용하여 시각화하는 것이다. 이때 와이어프레임을 구현하기 위한 tool로는 Figma를 사용하였다.
 <p align="center"><img width="1000" src="https://user-images.githubusercontent.com/110325367/208625469-3bf5c687-77af-4a46-ba31-5d6ae3bb8aba.png"/> </p>
 
-## UserFrame
+## UserFlow
+유저플로우는 와이어프레임으로 구현한 디자인을 바탕으로, 프레임과 프레임 사이의 연결을 도와주는 것이다. 이때 유저플로우를 구현하기 위한 tool 역시 Figma를 사용하였다.
 <p align="center"><img width="800" src="https://user-images.githubusercontent.com/110325367/208628062-629df408-07a8-439d-957b-7e8dc49ee25f.png"/> </p>
 
 
