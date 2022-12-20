@@ -52,6 +52,7 @@ class CalendarFragment : Fragment() {
         val currentDate: LocalDate = LocalDate.now()
         val formatter = DateTimeFormatter.ofPattern("yyyy년 MM월 dd일")
         val formatted = currentDate.format(formatter)
+        selectedDate = formatted
 
         binding.diaryTextView.setText(formatted)
         // calendar 날짜 선택 시 아래 text 날짜 변경
