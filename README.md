@@ -6,7 +6,7 @@
 * 2020111674 이지안
 
 ## schedule
-<img width="600" src="https://user-images.githubusercontent.com/110325367/208619255-48bb1e95-abb1-444d-a9b4-5ea244287a80.png"/>
+<p align="center"> <img width="650" src="https://user-images.githubusercontent.com/110325367/208619255-48bb1e95-abb1-444d-a9b4-5ea244287a80.png"/> </p>
 
 
 ###   
