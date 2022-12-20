@@ -12,8 +12,8 @@
    **[어플리케이션 제작 - Nagne]**
   
 </div>
+![start_splash](https://user-images.githubusercontent.com/110325367/208612334-5ca33c46-bc02-4fd7-99fa-4286fdc47f5f.png)
 
-![image2](https://user-images.githubusercontent.com/94797349/203092739-2f5f2daf-08a4-43e7-935c-6585cfd969d8.png)
 <br><br>
 <div align="center">
     
