@@ -18,11 +18,11 @@
     </div>
 
 <br><br>
-<div align="center">
+<div>
     제일 첫 시작 화면이 뜨기 전에, splash를 이용하여 Nagne 로고를 보여주면서 loading을 시작한다. 
     loading이 끝난 후에는 start page가 뜨는데 이 start page에는 여행지 추천화면, 나그네의 여행 일지, 나그네의 관광 추천 화면으로 이동할 수 있는 창이 뜬다.
-  
 </div>
+    
 <br>
     
 # Tool
