@@ -45,8 +45,9 @@
 
     
 ### 06. 도움말
-도움말 페이지를 구현하였다. 어플리케이션 제작자(팀원)의 정보를 제공하고, 라이트모드/다크모드 및 한국어/영어 기능을 제공한다.
-    
+환경설정 로고를 클릭하게 되면 도움말 페이지가 뜨는데, 어플리케이션 제작자(팀원)의 정보를 제공하고, 라이트모드/다크모드 및 한국어/영어 기능을 제공한다.
+<p align="center"><img width="200" src="[https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png](https://user-images.githubusercontent.com/110325367/208663689-ebffcbf8-a13b-4708-95c8-2950298661ad.jpg)"/> </p>
+
 ## Tool
    
           [<img width="150" src="https://user-images.githubusercontent.com/110325367/208623408-9fa94fc7-281f-4108-907d-4d7c5e1f26a6.png"/>](https://www.figma.com/file/OJPYqHYUDjF3FBhHmAPUv0/Untitled?node-id=0%3A1&t=oKphEWp3S7N1kIxa-0)         [<img src="https://user-images.githubusercontent.com/110325367/208617932-b5d828bc-789c-4482-a295-7d7d26e0b7f7.jpg"/>](https://developer.android.com/?hl=ko)  
