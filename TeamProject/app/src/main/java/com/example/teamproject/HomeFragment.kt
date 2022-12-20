@@ -1,5 +1,6 @@
 package com.example.teamproject
 
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import androidx.fragment.app.Fragment
@@ -7,6 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
+import com.example.teamproject.databinding.FragmentCalendarBinding
 import com.example.teamproject.databinding.FragmentHomeBinding
 
 // TODO: Rename parameter arguments, choose names that match
@@ -30,6 +32,8 @@ class HomeFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+
+
         val rootView = inflater.inflate(R.layout.fragment_home, container, false)
 
         val mActivity = activity as MainActivity2
@@ -40,6 +44,23 @@ class HomeFragment : Fragment() {
         }
         travleRecommendBtn.setOnClickListener {
             mActivity.changeFragment(3)
+        }
+        val jejuBtn: Button = rootView.findViewById(R.id.jeju_btn)
+        val chumBtn: Button = rootView.findViewById(R.id.chum_btn)
+        val haeBtn: Button = rootView.findViewById(R.id.hae_btn)
+        jejuBtn.setOnClickListener{
+            val intent: Intent = Intent(activity, jejuActivity::class.java)
+            startActivity(intent)
+        }
+
+        chumBtn.setOnClickListener{
+            val intent: Intent = Intent(activity, ChumActivity::class.java)
+            startActivity(intent)
+        }
+
+        haeBtn.setOnClickListener{
+            val intent: Intent = Intent(activity, HaeActivity::class.java)
+            startActivity(intent)
         }
 
         // Inflate the layout for this fragment

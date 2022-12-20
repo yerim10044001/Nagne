@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:src="@drawable/chum"
+        android:scaleType="centerCrop"
+        android:layout_gravity="top"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#99C4D0"
+        android:gravity="center"
+        android:text="경주 첨성대"
+        android:textAlignment="center"
+        android:textSize="72px"
+        android:textStyle="bold"
+        android:padding="36px"/>
+    <ImageButton
+        android:id="@+id/back_btn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:background="#00000000"
+        android:src="@drawable/chevron_left"
+        android:layout_gravity="start" />
+
+    <ImageButton
+        android:id="@+id/edit_btn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="right"
+        android:background="#00000000"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/edit_img" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="bottom">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:orientation="vertical"
+            android:background="@drawable/shape2">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:text="About"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:paddingTop="40dp"
+                android:paddingLeft="40dp"/>
+            <TextView
+                android:id="@+id/dir_text"
+                android:layout_width="1000px"
+                android:layout_height="500px"
+                android:background="#f0f0f0"
+                android:text="첨성대(瞻星臺)는 경상북도 경주시 반월성 동북쪽에 위치한 신라 중기의 석조 건축물로, 선덕여왕 때에 세워진 세계에서 현존하는 가장 오래된 천문대 중 하나이다.[1][2] 1962년 12월 20일 국보 제31호로 지정되었다."
+                android:textSize="40px"
+                android:padding="20px"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>
+</LinearLayout>

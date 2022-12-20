@@ -15,6 +15,15 @@
         android:theme="@style/Theme.TeamProject"
         tools:targetApi="31">
         <activity
+            android:name=".HaeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChumActivity"
+            android:exported="false" />
+        <activity
+            android:name=".jejuActivity"
+            android:exported="false" />
+        <activity
             android:name=".EditActivity"
             android:exported="false" />
 
