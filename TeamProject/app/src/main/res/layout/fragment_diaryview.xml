@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="1080px"
+    android:layout_height="1920px"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1080px"
+        android:src="@drawable/white_img"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="900px" />
+
+    <ImageView
+        android:id="@+id/diaryMainimg"
+        android:layout_width="match_parent"
+        android:layout_height="1080px"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/jeju" />
+
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="1080px"
+        android:layout_height="180px"
+        android:background="#99C4D0"
+        android:gravity="center"
+        android:text="제주도"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/image_button"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="25dp"
+        android:background="#00000000"
+        android:src="@drawable/chevron_left"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        android:src="@drawable/edit_img"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="360px"
+        android:layout_height="132px"
+        android:background="#ffffffff"
+        tools:layout_editor_absoluteX="-24px"
+        tools:layout_editor_absoluteY="1050px"
+        android:text="About"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/diaryText"
+        android:layout_width="999px"
+        android:layout_height="636px"
+        android:background="#f0f0f0"
+        tools:layout_editor_absoluteX="42px"
+        tools:layout_editor_absoluteY="1140px"
+        android:text="너무 재밌었다. 공기좋고 물 좋다. 다음에 또 가고싶다. 제주도에 가면 검멀레짬뽕을 꼭 먹어야 한다."
+        android:textSize="40px"
+        android:padding="20px" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
