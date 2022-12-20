@@ -56,6 +56,12 @@ class MainActivity2 : FragmentActivity(), BottomNavigationView.OnNavigationItemS
                     .replace(R.id.fl, DiaryviewFragment())
                     .commit()
             }
+            3 -> {
+                supportFragmentManager
+                    .beginTransaction()
+                    .replace(R.id.fl, MapFragment())
+                    .commit()
+            }
         }
     }
 }
