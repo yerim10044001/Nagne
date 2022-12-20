@@ -62,6 +62,12 @@ class MainActivity2 : FragmentActivity(), BottomNavigationView.OnNavigationItemS
                     .replace(R.id.fl, MapFragment())
                     .commit()
             }
+            4 -> {
+                supportFragmentManager
+                    .beginTransaction()
+                    .replace(R.id.fl, ScreenFragment())
+                    .commit()
+            }
         }
     }
 }

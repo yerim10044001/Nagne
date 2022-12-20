@@ -72,7 +72,7 @@
                     android:layout_marginRight="10dp"
                     android:layout_marginBottom="20dp"
                     android:background="@drawable/btn_recommend"
-                    android:drawableTop="@drawable/btn_recommend_image1"
+                    android:drawableTop="@drawable/hamduckbtn"
                     android:text="제주도\n함덕 해수욕장" />
 
                 <Button
@@ -83,7 +83,7 @@
                     android:layout_marginRight="10dp"
                     android:layout_marginBottom="20dp"
                     android:background="@drawable/btn_recommend"
-                    android:drawableTop="@drawable/btn_recommend_image1"
+                    android:drawableTop="@drawable/chumbtn"
                     android:text="경주\n첨성대"/>
 
             </LinearLayout>
@@ -99,7 +99,7 @@
                     android:layout_marginRight="10dp"
                     android:layout_marginBottom="20dp"
                     android:background="@drawable/btn_recommend"
-                    android:drawableTop="@drawable/btn_recommend_image1"
+                    android:drawableTop="@drawable/haebtn"
                     android:text="부산\n해운대"/>
 
                 <Button
@@ -109,7 +109,7 @@
                     android:layout_marginRight="10dp"
                     android:layout_marginBottom="20dp"
                     android:background="@drawable/btn_recommend"
-                    android:drawableTop="@drawable/btn_recommend_image1"
+                    android:drawableTop="@drawable/junjubtn"
                     android:text="전주\n한옥마을"/>
             </LinearLayout>
 

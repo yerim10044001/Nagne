@@ -76,6 +76,11 @@ class CalendarFragment : Fragment() {
             val mActivity = activity as MainActivity2
             mActivity.changeFragment(2)
         }
+        binding.picture2.setOnClickListener {
+            val mActivity = activity as MainActivity2
+            mActivity.changeFragment(4)
+
+        }
 
         // Inflate the layout for this fragment
         return binding.root

@@ -61,10 +61,10 @@ class EditActivity : AppCompatActivity() {
 
             // 데이터 fragment로 전달
 
-
+            finish()
         }
         // text내용 그대로 가져오기
-        binding.editText.setHint(intent.getStringExtra("text"))
+        binding.editText.setText(intent.getStringExtra("text"))
 
         val drawable = getDrawable(R.drawable.jeju)
         val bitmapDrawable = drawable as BitmapDrawable

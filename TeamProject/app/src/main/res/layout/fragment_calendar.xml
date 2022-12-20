@@ -77,13 +77,15 @@
                 android:layout_height="125dp"
                 android:layout_gravity="center"
                 android:layout_margin="20dp"
-                android:text="그림1" />
+                android:text=""
+                android:background="@drawable/jeju"/>
 
             <Button
+                android:id="@+id/picture2"
                 android:layout_width="150dp"
                 android:layout_height="125dp"
                 android:layout_gravity="center"
-                android:text="그림1" />
+                android:text="" />
 
         </LinearLayout>
 
