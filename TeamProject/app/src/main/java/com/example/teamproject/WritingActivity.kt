@@ -59,6 +59,15 @@ class WritingActivity : AppCompatActivity() {
             loadImage()
         }
 
+        // 저장버튼 클릭 시 fragment로 데이터 전달
+        binding.btnSave.setOnClickListener{
+            // 화면에서 데이터 받아오기
+
+            // 데이터 fragment로 전달
+
+
+        }
+
     }
 
     // 갤러리로부터 가져온 이미지 layout에 띄우기
