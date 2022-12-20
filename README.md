@@ -37,6 +37,12 @@
 왼쪽 화면의 연필 버튼(일정 등록 버튼)을 클릭하면, 오른쪽과 같은 화면이 뜨는데, 식당/장소 카테고리를 선택한 후, 선택한 카테고리의 Picture 및 Text에 내용을 추가한다. 저장 버튼을 누르면 선택한 날짜에 방금 삽입한 picture 및 text가 저장된다.
 <p align="center"><img width="200" src="https://user-images.githubusercontent.com/110325367/208621020-b4791459-766e-4380-813f-13259cdc851d.png"/>  <img width="200" src="https://user-images.githubusercontent.com/110325367/208621919-15207638-c122-4351-81cf-41f48850fefc.png"/> </p>
     
+### 05. 관광지 추천
+초기 화면에서 오늘의 관광지 추천 버튼을 클릭하면 랜덤으로 관광지를 추천하고, 그 추천한 관광지에 대한 정보를 제공한다.
+    
+### 06. 도움말
+도움말 페이지를 구현하였다. 어플리케이션 제작자(팀원)의 정보를 제공한다.
+    
 # Tool
 Userframe 및 Wireframe을 구축하기 위한 tool로 Figma를 사용하였고, 프로젝트의 전반적인 구현은 Andriod Studio를 사용하였다.
    
