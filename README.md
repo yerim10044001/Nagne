@@ -132,15 +132,7 @@ SR과 디노이징을 통한 최적화 후 객체 인식 테스트를 재진행�
 
 <br><br><br>
 <a href="https://drive.google.com/file/d/1CtBl-WSTkDsyFcMMNTLSv65IHZAVuDa0/view?usp=share_link">시연영상</a>
-## FrontEnd
-      [<img src="https://user-images.githubusercontent.com/94797349/203263241-95cb7160-0a81-4bc7-ae12-0ad275a40b60.png" width="100" height="150"/>](https://www.figma.com/files/recent?fuid=1158726737653483793)              [<img src="https://user-images.githubusercontent.com/94797349/203263379-dab35c9f-8284-44dc-9a2f-e18d51c38a7d.png" width="120" height="150"/>](https://developer.mozilla.org/ko/docs/Web/CSS)              [<img src="https://user-images.githubusercontent.com/94797349/203263442-e8c75941-9733-4723-988d-fa0c116fa5c4.png" width="140" height="150"/>](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
-<br><br><br>
-
-## BackEnd
-                                                            
-               [<img src="https://user-images.githubusercontent.com/94797349/205436530-72d1b647-6d97-4498-9af2-cba5e446e58f.png" width="150" height="150"/>](https://www.djangoproject.com/)              [<img src="https://user-images.githubusercontent.com/94797349/205434462-0fdbbe9e-b77f-48ee-b835-da8f31b57200.png" width="200" height="100"/>](https://opentutorials.org/course/4904)
-  
   
 
 # conference
