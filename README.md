@@ -8,21 +8,23 @@
 
 ###   
 ### 어플리케이션 제작 - "Nagne"
-#### 여행 일지를 이미지나 텍스트로 기록하고 여행 장소를 추천 받을 수 있는 어플리케이션을 제작하고자 함
+#### 여행 일지를 이미지나 텍스트로 기록하고 여행 장소를 추천 받을 수 있는 어플리케이션을 제작하고자 한다.
 
 #### 01. Splash 화면
 <br>
 <div align="center">
 
 <div>
-<img width="220" src="https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png"/>           <img width="220" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/>
-    </div>
+<img width="220" src="https://user-images.githubusercontent.com/110325367/208614458-b7fe496b-8948-4dc5-9d59-f7a2216ca146.png"/>
+</div>
 
 <br><br>
     
 제일 첫 시작 화면이 뜨기 전에, splash를 이용하여 Nagne 로고를 보여주면서 loading을 시작한다. 
+
+<img width="220" src="https://user-images.githubusercontent.com/110325367/208614722-c3f42828-589c-4b99-b4bd-be70ce60aee8.png"/>
+<br> 
     
-<br>
     
 # Tool
                        [<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>](https://www.python.org/)
