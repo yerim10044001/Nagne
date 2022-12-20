@@ -37,11 +37,11 @@ userframe 및 wireframe을 구축하기 위한 tool로 Figma를 사용하였고,
 
 ###   
 
-# WireFrame
+## WireFrame
 <p align="center"><img width="1000" src="https://user-images.githubusercontent.com/110325367/208625469-3bf5c687-77af-4a46-ba31-5d6ae3bb8aba.png"/> </p>
 
 
-# UserFrame
+## UserFrame
 <p align="center"><img width="800" src="https://user-images.githubusercontent.com/110325367/208628062-629df408-07a8-439d-957b-7e8dc49ee25f.png"/> </p>
 
 
